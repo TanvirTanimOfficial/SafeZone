@@ -1,0 +1,48 @@
+# SafeZone 🚨
+
+**SafeZone** is a Flutter-based safety app that allows users to share their real-time location with trusted contacts and view the live locations of other users on a map. It is designed to help individuals stay connected and safe in critical or emergency situations.
+
+---
+
+## 📱 Features
+
+- ✅ **Real-Time Location Sharing** — See other users live on a map
+- ✅ **One-Click Emergency Location Broadcast** to selected contacts
+- ✅ **Firebase Integration** for authentication and Firestore-based location updates
+- ✅ **Geolocator Support** for accurate GPS tracking
+
+---
+
+## 🛠 Built With
+
+- **Flutter** (Dart)
+- **Firebase** (Authentication, Firestore)
+- **Geolocator** for live GPS tracking
+- **Google Maps** Flutter plugin
+
+---
+
+## 📸 Screenshots
+
+*(Add your screenshots here if available)*
+
+---
+
+## 🚧 Current Status
+
+This project is under active development. Upcoming features include:
+- 🔜 Panic Button with emergency SMS
+- 🔜 Anonymous incident reporting
+- 🔜 Campus/area-based safety alerts
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/SafeZone.git
+cd SafeZone
+flutter pub get
+flutter run
