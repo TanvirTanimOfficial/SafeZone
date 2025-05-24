@@ -1,0 +1,35 @@
+name: safezone
+description: A real-time safety app with location features
+publish_to: 'none' # This is a private project
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.32.0
+  cloud_firestore: ^4.17.5
+  google_maps_flutter: ^2.5.3
+  flutter_lints: ^3.0.1
+  # If you're using location features
+  location: ^5.0.3
+
+  # Add your dependencies here
+  geolocator: ^10.1.0
+  http: ^1.2.1
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.1
+
+  # UI
+  cupertino_icons: ^1.0.6
+  firebase_auth: ^4.16.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

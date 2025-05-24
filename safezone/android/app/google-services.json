@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482435954245",
+    "project_id": "safezone-ebeb3",
+    "storage_bucket": "safezone-ebeb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482435954245:android:59d9e766773845ba06d52c",
+        "android_client_info": {
+          "package_name": "com.nubiz.safezone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhWMnW-PnzPyhZYjsq8qYW_1_3oFp_Ucc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
